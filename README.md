@@ -5,7 +5,7 @@
 
 ### <div align="center">Me chamo Douglas, sou desenvolvedor front-end na Ebix, alocado na Bradesco Seguros. 🚀💻</div>
 
-- 🔭 Nas minhas horas vagas trabalhono [Malhaí](https://malhai.com.br/)
+- 🔭 Nas minhas horas vagas trabalho no [Malhaí](https://malhai.com.br/)
 
 - 🌱 Estudo atualmente React e React Native
 
